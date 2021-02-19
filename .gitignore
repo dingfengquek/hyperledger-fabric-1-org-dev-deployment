@@ -1,0 +1,4 @@
+channel-artifacts
+organizations/ordererOrganizations
+organizations/peerOrganizations
+system-genesis-block
